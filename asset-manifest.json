@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ExcelScreenShotApp/static/css/main.849c1f2b.css",
+    "main.js": "/ExcelScreenShotApp/static/js/main.758c486a.js",
+    "static/js/787.d3befce1.chunk.js": "/ExcelScreenShotApp/static/js/787.d3befce1.chunk.js",
+    "index.html": "/ExcelScreenShotApp/index.html",
+    "main.849c1f2b.css.map": "/ExcelScreenShotApp/static/css/main.849c1f2b.css.map",
+    "main.758c486a.js.map": "/ExcelScreenShotApp/static/js/main.758c486a.js.map",
+    "787.d3befce1.chunk.js.map": "/ExcelScreenShotApp/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.849c1f2b.css",
+    "static/js/main.758c486a.js"
+  ]
+}
